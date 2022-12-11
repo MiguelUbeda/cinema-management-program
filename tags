@@ -1,0 +1,123 @@
+__DATA_H	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define __DATA_H$/;"	macro	line:5
+MAX_CINEMAS	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_CINEMAS 5$/;"	macro	line:14
+MAX_SCREENS	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_SCREENS 5$/;"	macro	line:15
+MAX_SESSIONS	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_SESSIONS 5$/;"	macro	line:16
+MAX_NAME	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_NAME 15+1$/;"	macro	line:17
+MAX_DOC_NUMBER	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_DOC_NUMBER 9+1$/;"	macro	line:18
+MAX_MOVIES	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_MOVIES 50$/;"	macro	line:19
+MAX_PURCHASES	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_PURCHASES 50$/;"	macro	line:20
+MAX_PATHNAME	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_PATHNAME 255$/;"	macro	line:21
+MAX_FILENAME	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_FILENAME 25$/;"	macro	line:22
+MAX_LINE	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_LINE 514$/;"	macro	line:23
+NO_CINEMA	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define NO_CINEMA -1$/;"	macro	line:24
+NO_SCREEN	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define NO_SCREEN -1$/;"	macro	line:25
+NO_SESSION	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define NO_SESSION -1$/;"	macro	line:26
+NO_MOVIE	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define NO_MOVIE -1$/;"	macro	line:27
+NO_PURCHASE	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define NO_PURCHASE -1$/;"	macro	line:28
+NO_ROW	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define NO_ROW -1$/;"	macro	line:29
+NO_SEAT_IN_ROW	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define NO_SEAT_IN_ROW -1$/;"	macro	line:30
+MAX_ROWS	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_ROWS 10$/;"	macro	line:32
+MAX_SEATS_PER_ROW	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_SEATS_PER_ROW 10$/;"	macro	line:33
+MAX_SEATS_PER_PURCHASE	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MAX_SEATS_PER_PURCHASE 6$/;"	macro	line:34
+MINUTES_BETWEEN_MOVIES	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define MINUTES_BETWEEN_MOVIES 20$/;"	macro	line:35
+PRICE_PER_TICKET	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^#define PRICE_PER_TICKET 8.50$/;"	macro	line:36
+OK	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum {OK=1, ERROR=0, ERR_CANNOT_READ=-1, ERR_CANNOT_WRITE=-2, $/;"	enumerator	line:39	enum:__anon1
+ERROR	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum {OK=1, ERROR=0, ERR_CANNOT_READ=-1, ERR_CANNOT_WRITE=-2, $/;"	enumerator	line:39	enum:__anon1
+ERR_CANNOT_READ	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum {OK=1, ERROR=0, ERR_CANNOT_READ=-1, ERR_CANNOT_WRITE=-2, $/;"	enumerator	line:39	enum:__anon1
+ERR_CANNOT_WRITE	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum {OK=1, ERROR=0, ERR_CANNOT_READ=-1, ERR_CANNOT_WRITE=-2, $/;"	enumerator	line:39	enum:__anon1
+ERR_MEMORY	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^              ERR_MEMORY=-3, ERR_DUPLICATED_ENTRY=-4, ERR_INVALID_DATA=-5, $/;"	enumerator	line:40	enum:__anon1
+ERR_DUPLICATED_ENTRY	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^              ERR_MEMORY=-3, ERR_DUPLICATED_ENTRY=-4, ERR_INVALID_DATA=-5, $/;"	enumerator	line:40	enum:__anon1
+ERR_INVALID_DATA	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^              ERR_MEMORY=-3, ERR_DUPLICATED_ENTRY=-4, ERR_INVALID_DATA=-5, $/;"	enumerator	line:40	enum:__anon1
+ERR_ENTRY_NOT_FOUND	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^              ERR_ENTRY_NOT_FOUND=-6,$/;"	enumerator	line:41	enum:__anon1
+ERR_NO_MOVIE	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^              ERR_NO_MOVIE=-7,ERR_NO_CINEMA=-8,ERR_NO_SCREEN=-9, $/;"	enumerator	line:42	enum:__anon1
+ERR_NO_CINEMA	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^              ERR_NO_MOVIE=-7,ERR_NO_CINEMA=-8,ERR_NO_SCREEN=-9, $/;"	enumerator	line:42	enum:__anon1
+ERR_NO_SCREEN	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^              ERR_NO_MOVIE=-7,ERR_NO_CINEMA=-8,ERR_NO_SCREEN=-9, $/;"	enumerator	line:42	enum:__anon1
+ERR_NO_SESSION	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^              ERR_NO_SESSION=-10,ERR_NO_FREE_GAP=-11} tError;$/;"	enumerator	line:43	enum:__anon1
+ERR_NO_FREE_GAP	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^              ERR_NO_SESSION=-10,ERR_NO_FREE_GAP=-11} tError;$/;"	enumerator	line:43	enum:__anon1
+tError	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum {OK=1, ERROR=0, ERR_CANNOT_READ=-1, ERR_CANNOT_WRITE=-2,                ERR_MEMORY=-3, ERR_DUPLICATED_ENTRY=-4, ERR_INVALID_DATA=-5,                ERR_ENTRY_NOT_FOUND=-6,               ERR_NO_MOVIE=-7,ERR_NO_CINEMA=-8,ERR_NO_SCREEN=-9,                ERR_NO_SESSION=-10,ERR_NO_FREE_GAP=-11} tError; $/;"	typedef	line:43	typeref:enum:__anon1
+FREE	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum { FREE, PURCHASED, UNAVAILABLE, DISABLED } tSeatStatus; $/;"	enumerator	line:45	enum:__anon2
+PURCHASED	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum { FREE, PURCHASED, UNAVAILABLE, DISABLED } tSeatStatus; $/;"	enumerator	line:45	enum:__anon2
+UNAVAILABLE	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum { FREE, PURCHASED, UNAVAILABLE, DISABLED } tSeatStatus; $/;"	enumerator	line:45	enum:__anon2
+DISABLED	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum { FREE, PURCHASED, UNAVAILABLE, DISABLED } tSeatStatus; $/;"	enumerator	line:45	enum:__anon2
+tSeatStatus	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum { FREE, PURCHASED, UNAVAILABLE, DISABLED } tSeatStatus;  $/;"	typedef	line:45	typeref:enum:__anon2
+tSessionId	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef int tSessionId; $/;"	typedef	line:47
+tScreenId	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef int tScreenId; $/;"	typedef	line:48
+tCinemaId	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef int tCinemaId; $/;"	typedef	line:49
+tMovieId	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef int tMovieId; $/;"	typedef	line:50
+day	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int day;$/;"	member	line:53	struct:__anon3	access:public
+month	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int month;$/;"	member	line:54	struct:__anon3	access:public
+year	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int year;$/;"	member	line:55	struct:__anon3	access:public
+tDate	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct {     int day;     int month;     int year; } tDate; $/;"	typedef	line:56	typeref:struct:__anon3
+hour	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int hour;$/;"	member	line:59	struct:__anon4	access:public
+minute	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int minute;$/;"	member	line:60	struct:__anon4	access:public
+tTime	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct {     int hour;     int minute; } tTime; $/;"	typedef	line:61	typeref:struct:__anon4
+sessionId	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tSessionId sessionId;$/;"	member	line:64	struct:__anon5	access:public
+movieId	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tMovieId movieId;$/;"	member	line:65	struct:__anon5	access:public
+time	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tTime time;$/;"	member	line:66	struct:__anon5	access:public
+seats	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tSeatStatus seats[MAX_ROWS][MAX_SEATS_PER_ROW];$/;"	member	line:67	struct:__anon5	access:public
+busySeats	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int busySeats;$/;"	member	line:68	struct:__anon5	access:public
+tSession	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct {     tSessionId sessionId;     tMovieId movieId;     tTime time;     tSeatStatus seats[MAX_ROWS][MAX_SEATS_PER_ROW];     int busySeats; } tSession; $/;"	typedef	line:69	typeref:struct:__anon5
+table	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tSession table[MAX_SESSIONS];$/;"	member	line:72	struct:__anon6	access:public
+nSessions	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int nSessions;   $/;"	member	line:73	struct:__anon6	access:public
+tSessionTable	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct {     tSession table[MAX_SESSIONS];     int nSessions;    } tSessionTable; $/;"	typedef	line:74	typeref:struct:__anon6
+screenId	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tScreenId screenId;$/;"	member	line:77	struct:__anon7	access:public
+capacity	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int capacity;$/;"	member	line:78	struct:__anon7	access:public
+rows	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int rows;$/;"	member	line:79	struct:__anon7	access:public
+seatsPerRow	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int seatsPerRow;$/;"	member	line:80	struct:__anon7	access:public
+sessions	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tSessionTable sessions;$/;"	member	line:81	struct:__anon7	access:public
+tScreen	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct {     tScreenId screenId;     int capacity;     int rows;     int seatsPerRow;     tSessionTable sessions; } tScreen; $/;"	typedef	line:82	typeref:struct:__anon7
+table	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tScreen table[MAX_SCREENS];$/;"	member	line:85	struct:__anon8	access:public
+nScreens	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int nScreens;    $/;"	member	line:86	struct:__anon8	access:public
+tScreenTable	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct {     tScreen table[MAX_SCREENS];     int nScreens;     } tScreenTable; $/;"	typedef	line:87	typeref:struct:__anon8
+PREMIERE	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    PREMIERE, RERELEASE, INDIE, OTHER$/;"	enumerator	line:90	enum:__anon9
+RERELEASE	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    PREMIERE, RERELEASE, INDIE, OTHER$/;"	enumerator	line:90	enum:__anon9
+INDIE	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    PREMIERE, RERELEASE, INDIE, OTHER$/;"	enumerator	line:90	enum:__anon9
+OTHER	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    PREMIERE, RERELEASE, INDIE, OTHER$/;"	enumerator	line:90	enum:__anon9
+tCinemaType	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum {     PREMIERE, RERELEASE, INDIE, OTHER } tCinemaType; $/;"	typedef	line:91	typeref:enum:__anon9
+cinemaId	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tCinemaId cinemaId; $/;"	member	line:94	struct:__anon10	access:public
+type	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tCinemaType type;$/;"	member	line:95	struct:__anon10	access:public
+name	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    char name[MAX_NAME];$/;"	member	line:96	struct:__anon10	access:public
+city	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    char city[MAX_NAME];$/;"	member	line:97	struct:__anon10	access:public
+openingTime	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tTime openingTime;$/;"	member	line:98	struct:__anon10	access:public
+closingTime	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tTime closingTime;$/;"	member	line:99	struct:__anon10	access:public
+screens	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tScreenTable screens;$/;"	member	line:100	struct:__anon10	access:public
+tCinema	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct {     tCinemaId cinemaId;      tCinemaType type;     char name[MAX_NAME];     char city[MAX_NAME];     tTime openingTime;     tTime closingTime;     tScreenTable screens; } tCinema; $/;"	typedef	line:101	typeref:struct:__anon10
+table	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^	tCinema table[MAX_CINEMAS];$/;"	member	line:104	struct:__anon11	access:public
+nCinemas	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^	int nCinemas;$/;"	member	line:105	struct:__anon11	access:public
+tCinemaTable	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct { 	tCinema table[MAX_CINEMAS]; 	int nCinemas; } tCinemaTable; $/;"	typedef	line:106	typeref:struct:__anon11
+G_RATED	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum { G_RATED, PG_RATED, PG13_RATED, R_RATED, NC17_RATED } tMovieRate; $/;"	enumerator	line:108	enum:__anon12
+PG_RATED	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum { G_RATED, PG_RATED, PG13_RATED, R_RATED, NC17_RATED } tMovieRate; $/;"	enumerator	line:108	enum:__anon12
+PG13_RATED	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum { G_RATED, PG_RATED, PG13_RATED, R_RATED, NC17_RATED } tMovieRate; $/;"	enumerator	line:108	enum:__anon12
+R_RATED	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum { G_RATED, PG_RATED, PG13_RATED, R_RATED, NC17_RATED } tMovieRate; $/;"	enumerator	line:108	enum:__anon12
+NC17_RATED	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum { G_RATED, PG_RATED, PG13_RATED, R_RATED, NC17_RATED } tMovieRate; $/;"	enumerator	line:108	enum:__anon12
+tMovieRate	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef enum { G_RATED, PG_RATED, PG13_RATED, R_RATED, NC17_RATED } tMovieRate;  $/;"	typedef	line:108	typeref:enum:__anon12
+movieId	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tMovieId movieId;$/;"	member	line:111	struct:__anon13	access:public
+tMovie	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct {     tMovieId movieId; \/**************** EX 1A *******************\/     \/******************************************\/ } tMovie; $/;"	typedef	line:118	typeref:struct:__anon13
+table	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^	tMovie table[MAX_MOVIES];$/;"	member	line:121	struct:__anon14	access:public
+nMovies	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^	int nMovies;$/;"	member	line:122	struct:__anon14	access:public
+tMovieTable	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct { 	tMovie table[MAX_MOVIES]; 	int nMovies; } tMovieTable; $/;"	typedef	line:123	typeref:struct:__anon14
+row	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^	int row, seatInRow;$/;"	member	line:126	struct:__anon15	access:public
+seatInRow	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^	int row, seatInRow;$/;"	member	line:126	struct:__anon15	access:public
+tSeat	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct { 	int row, seatInRow; } tSeat; $/;"	typedef	line:127	typeref:struct:__anon15
+cinemaId	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tCinemaId cinemaId;$/;"	member	line:130	struct:__anon16	access:public
+screenId	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tScreenId screenId;$/;"	member	line:131	struct:__anon16	access:public
+sessionId	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tSessionId sessionId;$/;"	member	line:132	struct:__anon16	access:public
+purchasedSeats	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int purchasedSeats;$/;"	member	line:133	struct:__anon16	access:public
+assignedSeats	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    bool assignedSeats;$/;"	member	line:134	struct:__anon16	access:public
+seats	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tSeat seats[MAX_SEATS_PER_PURCHASE];$/;"	member	line:135	struct:__anon16	access:public
+price	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    float price;$/;"	member	line:136	struct:__anon16	access:public
+tPurchase	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct {     tCinemaId cinemaId;     tScreenId screenId;     tSessionId sessionId;     int purchasedSeats;     bool assignedSeats;     tSeat seats[MAX_SEATS_PER_PURCHASE];     float price; } tPurchase; $/;"	typedef	line:137	typeref:struct:__anon16
+table	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tPurchase table[MAX_PURCHASES];$/;"	member	line:140	struct:__anon17	access:public
+nPurchases	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    int nPurchases;$/;"	member	line:141	struct:__anon17	access:public
+tPurchaseTable	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct {     tPurchase table[MAX_PURCHASES];     int nPurchases; } tPurchaseTable; $/;"	typedef	line:142	typeref:struct:__anon17
+path	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^	char path[MAX_PATHNAME];$/;"	member	line:148	struct:__anon18	access:public
+cinemas	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^	tCinemaTable cinemas;$/;"	member	line:151	struct:__anon18	access:public
+movies	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^	tMovieTable movies;$/;"	member	line:154	struct:__anon18	access:public
+purchases	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^    tPurchaseTable purchases;$/;"	member	line:157	struct:__anon18	access:public
+tAppData	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^typedef struct  { 	\/* Path where data will be stored *\/ 	char path[MAX_PATHNAME]; 	 	\/* Cinemas table *\/ 	tCinemaTable cinemas; 	 	\/* Movies table *\/ 	tMovieTable movies;  	\/* Purchases table *\/     tPurchaseTable purchases;      } tAppData; $/;"	typedef	line:159	typeref:struct:__anon18
+timeCmp	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^int timeCmp( tTime t1, tTime t2 );$/;"	prototype	line:166	signature:( tTime t1, tTime t2 )	returns:int 
+timeCpy	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^void timeCpy( tTime *t1, tTime t2 );$/;"	prototype	line:169	signature:( tTime *t1, tTime t2 )	returns:void 
+timeAdd	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^void timeAdd( tTime *t1, tTime t2 );$/;"	prototype	line:172	signature:( tTime *t1, tTime t2 )	returns:void 
+timeInit	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^void timeInit( tTime *t1 );$/;"	prototype	line:175	signature:( tTime *t1 )	returns:void 
+dateCmp	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^int dateCmp( tDate d1, tDate d2 );$/;"	prototype	line:178	signature:( tDate d1, tDate d2 )	returns:int 
+dateCpy	/Users/xtejero/Desktop/UOCCinema_ENU_v5/include/data.h	/^void dateCpy( tDate *d1, tDate d2 );$/;"	prototype	line:181	signature:( tDate *d1, tDate d2 )	returns:void 

@@ -1,0 +1,14 @@
+/Users/miguelubeda/Desktop/MAUT-cinema-management/include/test.h
+/Users/miguelubeda/Desktop/MAUT-cinema-management/include/menu.h
+/Users/miguelubeda/Desktop/MAUT-cinema-management/src/menu.c
+/Users/miguelubeda/Desktop/MAUT-cinema-management/include/purchase.h
+/Users/miguelubeda/Desktop/MAUT-cinema-management/src/purchase.c
+/Users/miguelubeda/Desktop/MAUT-cinema-management/include/cinema.h
+/Users/miguelubeda/Desktop/MAUT-cinema-management/src/test.c
+/Users/miguelubeda/Desktop/MAUT-cinema-management/src/main.c
+/Users/miguelubeda/Desktop/MAUT-cinema-management/include/data.h
+/Users/miguelubeda/Desktop/MAUT-cinema-management/include/api.h
+/Users/miguelubeda/Desktop/MAUT-cinema-management/include/movie.h
+/Users/miguelubeda/Desktop/MAUT-cinema-management/src/api.c
+/Users/miguelubeda/Desktop/MAUT-cinema-management/src/cinema.c
+/Users/miguelubeda/Desktop/MAUT-cinema-management/src/movie.c

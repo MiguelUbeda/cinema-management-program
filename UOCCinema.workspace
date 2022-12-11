@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOCCinema" Database="" Version="10.0.0">
+  <Project Name="UOCCinema" Path="UOCCinema.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Test">
+      <Environment/>
+      <Project Name="UOCCinema" ConfigName="Test"/>
+      <Project Name="UOCCinema" ConfigName="Test"/>
+      <Project Name="UOCCinema" ConfigName="Test"/>
+      <Project Name="UOCCinema" ConfigName="Test"/>
+      <Project Name="UOCCinema" ConfigName="Test"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Menu">
+      <Environment/>
+      <Project Name="UOCCinema" ConfigName="Menu"/>
+      <Project Name="UOCCinema" ConfigName="Menu"/>
+      <Project Name="UOCCinema" ConfigName="Menu"/>
+      <Project Name="UOCCinema" ConfigName="Menu"/>
+      <Project Name="UOCCinema" ConfigName="Menu"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
